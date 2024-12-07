@@ -21,7 +21,7 @@ hi there! 👋 I'm **macha**, a passionate developer who loves working with **C#
 ---
 
 ## gitHub Stats  
-![my gitHub stats](https://github-readme-stats.vercel.app/api?username=m3chadev&show_icons=true&theme=radical)
+![my gitHub stats](https://github-readme-stats.vercel.app/api?username=machalolxp&show_icons=true&theme=radical)
 
 ---
 
