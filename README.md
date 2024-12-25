@@ -1,7 +1,5 @@
 i am very active 100%
 
-merry crisis management
-
 kurtains no 1 fan
 
 holy c enthusiast
@@ -17,6 +15,7 @@ it was 3 am when i did this
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=machalolxp&show_icons=true&locale=en" alt="machalolxp" /></p>
 
+gordan freeman 💰
 
-
+i need to update this so i can get a streak
 
